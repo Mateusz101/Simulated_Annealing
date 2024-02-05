@@ -1,0 +1,145 @@
+
+=========================
+14 25 39 32 48 5 42 24 10 45 35 4 26 2 29 34 41 16 22 1 8 9 38 31 44 18 7 28 6 37 19 27 17 43 30 36 46 33 15 40 3 23 11 12 20 47 21 13 10789.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+34 41 16 22 3 23 11 12 33 46 36 30 43 17 27 19 37 6 28 7 18 44 31 38 8 1 9 40 15 20 47 21 13 14 25 39 32 24 10 45 35 4 26 42 2 29 5 48 10834.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+29 5 48 34 41 16 22 3 40 9 1 8 38 31 44 18 7 28 30 43 17 27 19 37 6 36 46 33 15 12 20 47 21 13 11 23 14 25 39 32 24 10 45 35 4 26 42 2 10826.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+48 5 42 24 10 45 35 4 26 2 29 41 34 14 25 13 23 11 12 15 40 3 22 16 1 8 9 38 31 44 18 7 28 30 43 17 27 19 37 6 36 46 33 20 47 21 32 39 10742.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+1 8 9 38 31 44 18 7 28 6 37 19 27 17 43 30 36 46 33 15 12 20 47 21 13 11 40 3 23 14 25 39 32 24 10 45 35 4 26 42 48 5 2 29 34 41 16 22 11045.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+8 9 38 31 44 18 7 28 6 37 19 27 17 43 30 36 46 33 15 40 12 20 47 21 39 32 24 10 45 35 4 26 42 2 29 5 48 25 14 13 11 23 3 34 41 16 22 1 10801.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+26 4 35 45 10 42 2 29 5 48 25 13 14 34 41 16 22 40 15 12 20 33 46 36 30 43 17 27 19 37 6 28 7 18 44 31 38 9 8 1 3 23 11 47 21 39 32 24 11169.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+45 10 42 2 29 34 41 16 22 3 23 11 12 33 46 36 30 43 17 27 19 37 6 28 7 18 44 31 38 8 1 9 40 15 20 47 21 13 14 25 5 48 39 32 24 26 4 35 11145.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+5 42 24 10 45 35 4 26 2 29 41 16 22 1 8 9 38 31 44 18 7 28 30 43 17 27 19 37 6 36 46 33 12 11 23 13 25 14 34 3 40 15 20 47 21 32 39 48 10927.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+29 5 48 21 47 20 15 40 3 23 14 34 41 16 22 1 8 9 38 31 44 18 7 28 6 37 19 27 17 43 30 36 46 33 12 11 13 25 39 32 24 10 45 35 4 26 42 2 11161.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+5 29 2 42 26 4 35 45 10 24 32 39 25 14 13 21 47 20 15 40 9 1 8 38 31 44 18 7 28 30 43 17 27 19 37 6 36 46 33 12 11 23 3 22 16 41 34 48 10869.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+8 38 31 44 18 7 28 30 43 17 27 19 37 6 36 46 33 15 12 20 47 21 48 5 29 2 42 26 4 35 45 10 24 32 39 25 13 11 23 14 34 41 16 22 3 40 9 1 10988.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+12 20 47 21 32 39 48 5 42 24 10 45 35 4 26 2 29 34 41 16 22 1 8 9 38 31 44 18 7 28 6 37 19 27 17 43 30 36 46 33 15 40 3 23 14 25 13 11 10764.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+10 45 35 4 26 2 29 41 34 14 25 13 11 23 3 22 16 1 8 9 38 31 44 18 7 28 30 43 17 27 19 37 6 36 46 33 15 40 12 20 47 21 32 39 48 5 42 24 10805.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+14 23 11 47 20 12 15 33 46 18 7 28 6 37 19 27 17 43 30 36 44 31 38 8 1 9 40 3 22 16 41 34 29 2 10 24 45 35 4 26 42 5 48 39 32 21 13 25 11014.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
+=========================
+24 32 39 25 14 13 21 47 20 33 46 36 30 43 17 27 19 37 6 28 7 18 44 31 38 8 1 9 40 15 12 11 23 3 22 16 41 34 48 5 29 2 42 26 4 35 45 10 10690.0
+
+Poczatkowa temparatura: 1000
+Wsp. chlodzenia: 0.003
+Liczba iteracji dla jednej temperatury: 100
+Minimalna temperatura: 10
+Metoda redukcji temperatury: fast
+Metoda: insertion
