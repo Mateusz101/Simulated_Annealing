@@ -25,7 +25,7 @@ python SA.py
 ```
 
 ## 📊 Data Format
-The `.csv` files contain **TSP instances**, where each row represents a city with its **ID, X, and Y coordinates**.
+The `.csv` files contain **TSP instances**, where each cell represents distance between specific cities.
 
 ## ⚙️ Algorithm Overview
 - **Initial Solution**: Randomly generates a tour.
@@ -42,6 +42,50 @@ The algorithm outputs the best-found tour and its corresponding cost. Results ar
 - 📈 Visualize TSP solutions.
 
 ---
-Made with ❤️ by Mateusz Strojek 🚀
+Made by Mateusz Strojek 🚀
+
+# 🔥 (PL) Wyżarzanie Symulowane dla TSP
+
+## 📌 Opis Projektu  
+Ten projekt implementuje algorytm **Wyżarzania Symulowanego (SA)** do rozwiązania **Problemu Komiwojażera (TSP)**. Algorytm znajduje przybliżone rozwiązanie poprzez stopniowe ulepszanie trasy, jednocześnie unikając lokalnych minimów.
+
+## 📂 Struktura Repozytorium  
+
+```
+📾 Katalog Główny  
+👉 📂 .idea                     # Pliki konfiguracyjne IDE (można zignorować)  
+👉 📄 Dane_TSP_127.csv          # Zbiór danych TSP (127 miast)  
+👉 📄 Dane_TSP_48.csv           # Zbiór danych TSP (48 miast)  
+👉 📄 Dane_TSP_76.csv           # Zbiór danych TSP (76 miast)  
+👉 📄 SA.py                     # Implementacja Wyżarzania Symulowanego  
+👉 📄 Wyżarzanie_records_testy1.txt  # Wyniki testów  
+👉 📄 README.md                 # Dokumentacja projektu  
+```
+
+## ▶️ Uruchamianie Algorytmu  
+Aby uruchomić algorytm, wykonaj skrypt **SA.py**:  
+```sh
+python SA.py
+```
+
+## 📊 Format Danych  
+Pliki `.csv` zawierają instancje **TSP**, gdzie każda komórka reprezentuje odległość między konkretnymi miastami.
+
+## ⚙️ Opis Algorytmu  
+- **Rozwiązanie początkowe**: Generowane losowo.  
+- **Harmonogram chłodzenia**: Używa wykładniczego spadku temperatury.  
+- **Prawdopodobieństwo akceptacji**: Akceptuje gorsze rozwiązania z malejącym prawdopodobieństwem.  
+- **Warunek stopu**: Kończy działanie, gdy temperatura osiągnie określony próg.  
+
+## 📝 Przykładowy Wynik  
+Algorytm zwraca najlepsza znalezioną trasę i jej koszt. Wyniki są zapisane w `Wyżarzanie_records_testy1.txt`.
+
+## 📌 Możliwe Ulepszenia  
+- 🏃️‍♂️ Optymalizacja harmonogramu chłodzenia.  
+- 🤖 Implementacja przetwarzania równoległego.  
+- 📈 Wizualizacja rozwiązań TSP.  
+
+---  
+Autor: Mateusz Strojek 🚀
 
 
